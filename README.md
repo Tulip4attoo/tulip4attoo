@@ -12,9 +12,9 @@ In short, I love making stuff and solving problems.
 
 ![My Trait](/my-trait.png)
 
-I spend years of my life learning and working in data/AI field. After some years, [I realized that I created nothing](https://youtu.be/M5v1nXiUaOI) except [a pet project from long time ago](https://github.com/Tulip4attoo/chrome_trex). I know that I need some changes.
+I spend years learning and working in data/AI field. One day, [I realized that I created nothing](https://youtu.be/M5v1nXiUaOI) except [a pet project from long time ago](https://github.com/Tulip4attoo/chrome_trex). I know that I need some changes.
 
-Everything seemed clear when I first saw [Unreal Engine 5 Revealed!](https://www.youtube.com/watch?v=qC5KtatMcUw). Now, I will change my career into gamedev. Here is [my first demo project on UE5](https://github.com/Tulip4attoo/Soul-like-Game-UE5).
+Everything seemed clear when I first saw [Unreal Engine 5 Revealed!](https://www.youtube.com/watch?v=qC5KtatMcUw). Now, I switch my career into gamedev. Here is [my first demo project on UE5](https://github.com/Tulip4attoo/Soul-like-Game-UE5).
 
 ![Screenshot](/Gameplay_Screenshot.png)
 

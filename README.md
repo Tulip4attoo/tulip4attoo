@@ -29,6 +29,9 @@ Here is [my CV](/LinhNguyen_Gamedev.pdf): https://github.com/Tulip4attoo/tulip4a
 ### Where to find me
 You can 📫 reach me at huylinh [dot] nguyen [@] outlook [dot] com 
 
-<p><a href="https://github.com/tulip4attoo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/linh-nguyen-5814881b4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://tulip4attoo.github.io/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p>
+<a href="https://github.com/tulip4attoo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/linh-nguyen-5814881b4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://tulip4attoo.github.io/" target="_blank"><img alt="Github Pages" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=" /></a>
 </p>
 

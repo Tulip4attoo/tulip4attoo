@@ -18,9 +18,9 @@ When I'm not busy building, coding, or working on AI projects, you can find me:
 - 🏃‍♂️ Staying active and engaging in various physical activities, as a healthy body fuels a healthy mind
 - 🎨 Appreciating the beauty of art and creativity, which not only inspires me but also helps me think outside the box and find unique solutions to complex problems
 
-You can check out some of my side projects here:
+You can check out some of works here:
 
-1. [Soul-like Game UE5]([https://github.com/yourusername/project1](https://github.com/Tulip4attoo/Soul-like-Game-UE5))
+1. [Soul-like Game UE5](https://github.com/Tulip4attoo/Soul-like-Game-UE5)
 2. [I created an end-to-end bot to play Chrome Dinosaur game. My model used screenshots as input.](https://github.com/Tulip4attoo/chrome_trex)
 3. [Python Tetris in terminal](https://github.com/yourusername/project3)
 4. [my blogs (Vietnamese)](https://tulip4attoo.github.io/) where I write about my side projects, competitions and technical things.

@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Tulip4attoo! I'm a passionate and curious **Developer** 🖥️ who thrives on making stuff and solving problems 💡. I specialize in the world of **Data and AI** 🧠🤖, where I put my creativity and analytical skills to the test. 
+I'm a passionate and curious **Developer** 🖥️ who thrives on making stuff and solving problems 💡. I specialize in the world of **Data and AI** 🧠🤖, where I put my creativity and analytical skills to the test. 
 
 I love making stuff and solving problems. My archetypes of **Inventor** 🔧, **Explorer** 🌍, and **Individualist** 🦄 truly define my approach to life and work.
 

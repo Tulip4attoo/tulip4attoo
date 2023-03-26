@@ -4,8 +4,6 @@ I'm a passionate and curious **Developer** 🖥️ who thrives on making stuff a
 
 I love making stuff and solving problems. My archetypes of **Inventor** 🔧, **Explorer** 🌍, and **Individualist** 🦄 truly define my approach to life and work.
 
-![My Trait](/my-trait.png)
-
 As an avid problem solver, I'm always on the lookout for new challenges and opportunities to create innovative solutions. My love for making stuff has led me to explore various programming languages, frameworks, and tools, enabling me to adapt and grow in the ever-evolving world of technology.
 
 Some of the technologies I'm most thrilled about include **Unreal Engine 5** (UE5) 🎮, **AI** 🤖, and **Virtual/Augmented Reality** (VR/AR) 🕶️. I believe these cutting-edge technologies have the potential to revolutionize the way we live, work, and interact with the world around us.
@@ -34,4 +32,5 @@ You can 📫 reach me at huylinh.nguyen@outlook.com
 <p>
 <a href="https://github.com/tulip4attoo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://tulip4attoo.github.io/" target="_blank"><img alt="Github Pages" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=" /></a>
+<a href="https://www.goodreads.com/user/show/43976309-tulip" target="_blank"><img alt="Github Pages" src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" /></a>
 </p>

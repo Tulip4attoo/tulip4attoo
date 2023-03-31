@@ -1,3 +1,13 @@
+You can check out some of works here:
+
+1. [Soul-like Game UE5](https://github.com/Tulip4attoo/Soul-like-Game-UE5)
+2. [I created an end-to-end bot to play Chrome Dinosaur game. My model used screenshots as input.](https://github.com/Tulip4attoo/chrome_trex)
+3. [Python Tetris in terminal](https://github.com/yourusername/project3)
+4. [my blogs (Vietnamese)](https://tulip4attoo.github.io/) where I write about my side projects, competitions and technical things.
+
+
+------------
+
 ### Hi there! 👋
 
 I'm a passionate and curious **Developer** 🖥️ who thrives on making stuff and solving problems 💡. I specialize in the world of **Data and AI** 🧠🤖, where I put my creativity and analytical skills to the test. 
@@ -15,14 +25,6 @@ When I'm not busy building, coding, or working on AI projects, you can find me:
 - 📚 Getting lost in a good book, expanding my knowledge and imagination, because learning never stops
 - 🏃‍♂️ Staying active and engaging in various physical activities, as a healthy body fuels a healthy mind
 - 🎨 Appreciating the beauty of art and creativity, which not only inspires me but also helps me think outside the box and find unique solutions to complex problems
-
-You can check out some of works here:
-
-1. [Soul-like Game UE5](https://github.com/Tulip4attoo/Soul-like-Game-UE5)
-2. [I created an end-to-end bot to play Chrome Dinosaur game. My model used screenshots as input.](https://github.com/Tulip4attoo/chrome_trex)
-3. [Python Tetris in terminal](https://github.com/yourusername/project3)
-4. [my blogs (Vietnamese)](https://tulip4attoo.github.io/) where I write about my side projects, competitions and technical things.
-
 
 I'm a firm believer in the power of collaboration and the exchange of ideas, so I'm always open to learning new things and working with others on exciting projects. If you have an idea or project you'd like to discuss, or if you simply want to connect, don't hesitate to reach out to me. Together, let's create something amazing and make a positive impact on the world! 🚀
 

@@ -13,12 +13,13 @@ I love making stuff and solving problems. My archetypes of **Inventor** 🔧, **
 I'm super into  **Unreal Engine 5** (UE5) 🎮, **AI** 🤖, and **Virtual/Augmented Reality** (VR/AR) 🕶️. I believe these technologies are gonna change how we live, work, and interact.
 
 I also love to:
-🎮 Playing Video games. I really love Elden ring, LoL, DotA
-📚 Writing tech blog posts to share my thoughts and experiences with other developers
-🚀 Working on side projects to sharpen my skills and try out new tech
-📚 Reading a good book, 'cause there's always more to learn
-🏃‍♂️ Keeping active to stay sharp, since a healthy body helps a healthy mind
-🎨 Enjoying art and creativity, which inspires me and helps me think differently
+
++ 🎮 Playing Video games. I really love Elden ring, LoL, DotA
++ 📚 Writing tech blog posts to share my thoughts and experiences with other developers
++ 🚀 Working on side projects to sharpen my skills and try out new tech
++ 📚 Reading a good book, 'cause there's always more to learn
++ 🏃‍♂️ Keeping active to stay sharp, since a healthy body helps a healthy mind
++ 🎨 Enjoying art and creativity, which inspires me and helps me think differently
 
 If you have a cool project, hit me up. Let's make something awesome together and change the world! 🚀
 

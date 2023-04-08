@@ -8,25 +8,20 @@ You can check out some of works here:
 
 ------------
 
-### Hi there! 👋
-
-I'm a passionate and curious **Developer** 🖥️ who thrives on making stuff and solving problems 💡. I specialize in the world of **Data and AI** 🧠🤖, where I put my creativity and analytical skills to the test. 
-
 I love making stuff and solving problems. My archetypes of **Inventor** 🔧, **Explorer** 🌍, and **Individualist** 🦄 truly define my approach to life and work.
 
-As an avid problem solver, I'm always on the lookout for new challenges and opportunities to create innovative solutions. My love for making stuff has led me to explore various programming languages, frameworks, and tools, enabling me to adapt and grow in the ever-evolving world of technology.
+I'm super into  **Unreal Engine 5** (UE5) 🎮, **AI** 🤖, and **Virtual/Augmented Reality** (VR/AR) 🕶️. I believe these technologies are gonna change how we live, work, and interact.
 
-Some of the technologies I'm most thrilled about include **Unreal Engine 5** (UE5) 🎮, **AI** 🤖, and **Virtual/Augmented Reality** (VR/AR) 🕶️. I believe these cutting-edge technologies have the potential to revolutionize the way we live, work, and interact with the world around us.
+I also love to:
+🎮 Playing Video games. I really love Elden ring, LoL, DotA
+📚 Writing tech blog posts to share my thoughts and experiences with other developers
+🚀 Working on side projects to sharpen my skills and try out new tech
+📚 Reading a good book, 'cause there's always more to learn
+🏃‍♂️ Keeping active to stay sharp, since a healthy body helps a healthy mind
+🎨 Enjoying art and creativity, which inspires me and helps me think differently
 
-When I'm not busy building, coding, or working on AI projects, you can find me:
+If you have a cool project, hit me up. Let's make something awesome together and change the world! 🚀
 
-- 📚 Writing technical blog posts, where I share my insights, experiences, and knowledge with the developer community
-- 🚀 Developing side projects, which help me further hone my skills and explore new technologies
-- 📚 Getting lost in a good book, expanding my knowledge and imagination, because learning never stops
-- 🏃‍♂️ Staying active and engaging in various physical activities, as a healthy body fuels a healthy mind
-- 🎨 Appreciating the beauty of art and creativity, which not only inspires me but also helps me think outside the box and find unique solutions to complex problems
-
-I'm a firm believer in the power of collaboration and the exchange of ideas, so I'm always open to learning new things and working with others on exciting projects. If you have an idea or project you'd like to discuss, or if you simply want to connect, don't hesitate to reach out to me. Together, let's create something amazing and make a positive impact on the world! 🚀
 
 ### Where to find me
 You can 📫 reach me at huylinh.nguyen@outlook.com 

@@ -1,4 +1,4 @@
-You can check out some of works here:
+You can check out some of my works here:
 
 1. [Soul-like Game UE5](https://github.com/Tulip4attoo/Soul-like-Game-UE5)
 2. [I created an end-to-end bot to play Chrome Dinosaur game. My model used screenshots as input.](https://github.com/Tulip4attoo/chrome_trex)

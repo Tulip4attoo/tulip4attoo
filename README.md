@@ -1,10 +1,15 @@
 You can check out some of my works here:
 
 1. [Platform2dGen](https://github.com/Tulip4attoo/Platform2dGen): Generate platform images for 2d games
+   ![image](https://github.com/Tulip4attoo/tulip4attoo/assets/11815368/6c111111-b0db-467d-8f72-442ad5901773)
 2. [Soul-like Game UE5](https://github.com/Tulip4attoo/Soul-like-Game-UE5)
+   ![Gameplay](https://raw.githubusercontent.com/Tulip4attoo/Soul-like-Game-UE5/master/Readme_Media/Gameplay_Screenshot.png)
 3. [I created an end-to-end bot to play Chrome Dinosaur game. My model used screenshots as input.](https://github.com/Tulip4attoo/chrome_trex)
-4. [Python Tetris in terminal](https://github.com/yourusername/project3)
-5. [my blogs (Vietnamese)](https://tulip4attoo.github.io/) where I write about my side projects, competitions and technical things.
+   ![image](https://github.com/Tulip4attoo/tulip4attoo/assets/11815368/92538af2-6bf9-48c6-8d33-efeec4026eef)
+5. [Python Tetris in terminal](https://github.com/Tulip4attoo/tetris_python)
+   
+   ![image](https://camo.githubusercontent.com/bd5db7b9b85b16a0e65b997c47438187707e47f77a5b9c6656e8be597e9943aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f687246726343387868336a67356b38304f7a2f67697068792e676966)
+7. [my blogs (Vietnamese)](https://tulip4attoo.github.io/) where I write about my side projects, competitions and technical things.
 
 
 ------------

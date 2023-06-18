@@ -1,9 +1,10 @@
 You can check out some of my works here:
 
-1. [Soul-like Game UE5](https://github.com/Tulip4attoo/Soul-like-Game-UE5)
-2. [I created an end-to-end bot to play Chrome Dinosaur game. My model used screenshots as input.](https://github.com/Tulip4attoo/chrome_trex)
-3. [Python Tetris in terminal](https://github.com/yourusername/project3)
-4. [my blogs (Vietnamese)](https://tulip4attoo.github.io/) where I write about my side projects, competitions and technical things.
+1. [Platform2dGen](https://github.com/Tulip4attoo/Platform2dGen): Generate platform images for 2d games
+2. [Soul-like Game UE5](https://github.com/Tulip4attoo/Soul-like-Game-UE5)
+3. [I created an end-to-end bot to play Chrome Dinosaur game. My model used screenshots as input.](https://github.com/Tulip4attoo/chrome_trex)
+4. [Python Tetris in terminal](https://github.com/yourusername/project3)
+5. [my blogs (Vietnamese)](https://tulip4attoo.github.io/) where I write about my side projects, competitions and technical things.
 
 
 ------------

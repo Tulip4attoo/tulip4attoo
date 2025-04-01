@@ -8,7 +8,7 @@ You can check out some of my works here:
    ![image](https://github.com/Tulip4attoo/tulip4attoo/assets/11815368/92538af2-6bf9-48c6-8d33-efeec4026eef)
 5. [Python Tetris in terminal](https://github.com/Tulip4attoo/tetris_python)
    
-   ![image](https://camo.githubusercontent.com/bd5db7b9b85b16a0e65b997c47438187707e47f77a5b9c6656e8be597e9943aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f687246726343387868336a67356b38304f7a2f67697068792e676966)
+   ![image](https://media.giphy.com/media/hrFrcC8xh3jg5k80Oz/giphy.gif)
 7. [my blogs (Vietnamese)](https://tulip4attoo.github.io/) where I write about my side projects, competitions and technical things.
 
 
